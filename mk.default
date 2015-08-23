@@ -1,0 +1,104 @@
+Build Details
+
+Manufacturer: samsung
+Model: SGH-I547C
+
+Brand: samsung
+Board: MSM8960
+Device: comanchecan
+Hardware: qcom
+Product: comanchevl
+
+Serial Number: 5df39763
+
+Bootloader: I547CVLUAMC1
+Radio: I547CVLAMC1
+
+Build Fingerprint: samsung/comanchevl/comanchecan:4.1.2/JZO54K/I547CVLUAMC1:user/release-keys
+
+Release: 4.1.2
+Codename: REL
+Build Version: JZO54K
+Build Type: Root
+Build Tags: release-keys
+Build Date: 2013-03-02
+Built By: se.infra@SEP-121
+Build Number: I547CVLUAMC1
+
+API level: 16
+
+CPU ABIs: armeabi-v7a armeabi
+
+Kernel Version: Linux version 3.0.31-928639 (se.infra@SEP-121) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Sat Mar 2 20:40:05 KST 2013 
+
+DalvikVM Heap Size: 64 MiB
+
+DalvikVM features 
+  hprof-heap-dump 
+  hprof-heap-dump-streaming 
+  method-trace-profiling 
+  method-trace-profiling-streaming 
+
+OpenGL ES version: 2.0
+
+Features 
+  android.hardware.bluetooth 
+  android.hardware.camera 
+  android.hardware.camera.autofocus 
+  android.hardware.camera.flash 
+  android.hardware.camera.front 
+  android.hardware.faketouch 
+  android.hardware.location 
+  android.hardware.location.gps 
+  android.hardware.location.network 
+  android.hardware.microphone 
+  android.hardware.nfc 
+  android.hardware.screen.landscape 
+  android.hardware.screen.portrait 
+  android.hardware.sensor.accelerometer 
+  android.hardware.sensor.compass 
+  android.hardware.sensor.proximity 
+  android.hardware.telephony 
+  android.hardware.telephony.gsm 
+  android.hardware.touchscreen 
+  android.hardware.touchscreen.multitouch 
+  android.hardware.touchscreen.multitouch.distinct 
+  android.hardware.touchscreen.multitouch.jazzhand 
+  android.hardware.usb.accessory 
+  android.hardware.usb.host 
+  android.hardware.wifi 
+  android.hardware.wifi.direct 
+  android.software.live_wallpaper 
+  android.software.sip 
+  android.software.sip.voip 
+  com.nxp.mifare 
+  com.sec.android.mdm 
+  com.sec.feature.minimode 
+
+Shared Java libraries 
+  access.control 
+  allshare 
+  allsharelib 
+  android.test.runner 
+  com.android.future.usb.accessory 
+  com.android.location.provider 
+  com.android.nfc_extras 
+  com.google.android.maps 
+  com.google.android.media.effects 
+  com.google.widevine.software.drm 
+  com.qualcomm.location.quipslib 
+  com.samsung.device 
+  com.sec.android.app.minimode 
+  com.sec.android.mdm 
+  javax.btobex 
+  javax.obex 
+  kies_feature 
+  libvtmanagerjar 
+  org.simalliance.openmobileapi 
+  sec_feature 
+  sec_platform_library 
+  seccamera 
+  sechardware 
+  secmediarecorder 
+  touchwiz 
+
